@@ -1,11 +1,17 @@
 {
     "name": "infrangible/m2-customer-create-check",
-    "description": "Infrangible Magento 2 Customer Create Check",
+    "description": "Blocks spam registrations by checking name and address fields of new customer accounts against allow and deny patterns; web addresses in names are rejected by default.",
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Customers",
+        "block spam registrations",
+        "customer registration spam filter",
+        "fake account protection"
     ],
     "homepage": "https://github.com/infrangible-dev/m2-customer-create-check",
     "authors": [
